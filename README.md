@@ -22,7 +22,7 @@ hours of operation. They already knew both of these facts. [Leventhal et
 al. 1965
 E.g Like button
 
-### Social Loafing
+### Social Loafing:
 Many hands make…work…light?
 When there are others contributing, we contribute less.
 Experiment: blindfold a participant and get them to play team tug war. [Ingham 1974]
@@ -31,7 +31,7 @@ Except…there is actually nobody else on their team, they just think so.
 People pulled 18% harder when they thought they were the only one on 
 their team than when they thought there were 2–5 others
 
-### Reciprocity
+### Reciprocity:
 You are more willing to give back when someone does a favor for 
 you. Even if you didn’t ask for the favor!
 Experiment [Regan 1971]: in the context of another task, your 
