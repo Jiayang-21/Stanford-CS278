@@ -2,8 +2,8 @@
 
 ## Week 1
  
-### Social proof: when people copy each 
-others’ behavior
+### Social proof: 
+when people copy each others’ behavior
 In social situations when people are 
 unable to determine the appropriate 
 behavior, they look to what others are 
@@ -12,7 +12,8 @@ The assumption is that others know
 what they are doing, so their behavior 
 becomes a kind of proof
 
-### Channel factors: minor features upstream in a decision process that 
+### Channel factors: 
+minor features upstream in a decision process that 
 can produce large changes in behavior downstream [Ross and 
 Nisbett 1991]. They are behavioral catalysts.
 Students asked to get a tetanus shot were more likely to do it if they got 
