@@ -1,8 +1,8 @@
 # Stanford-CS278
 
 ## Week 1
-
-Social proof: when people copy each 
+ 
+### Social proof: when people copy each 
 others’ behavior
 In social situations when people are 
 unable to determine the appropriate 
@@ -12,7 +12,7 @@ The assumption is that others know
 what they are doing, so their behavior 
 becomes a kind of proof
 
-Channel factors: minor features upstream in a decision process that 
+### Channel factors: minor features upstream in a decision process that 
 can produce large changes in behavior downstream [Ross and 
 Nisbett 1991]. They are behavioral catalysts.
 Students asked to get a tetanus shot were more likely to do it if they got 
@@ -21,10 +21,10 @@ hours of operation. They already knew both of these facts. [Leventhal et
 al. 1965
 E.g Like button
 
-Social Loafing
+### Social Loafing
 Many hands make…work…light?
 When there are others contributing, we contribute less.
-Experiment: blindfold a participant and get them to play team tugof-war. [Ingham 1974]
+Experiment: blindfold a participant and get them to play team tug war. [Ingham 1974]
 Except…there is actually nobody else on their team, they just think so. 
 (Remember, they’re blindfolded.)
 People pulled 18% harder when they thought they were the only one on 
