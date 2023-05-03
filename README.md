@@ -31,7 +31,7 @@ Except…there is actually nobody else on their team, they just think so.
 People pulled 18% harder when they thought they were the only one on 
 their team than when they thought there were 2–5 others
 
-Reciprocity
+### Reciprocity
 You are more willing to give back when someone does a favor for 
 you. Even if you didn’t ask for the favor!
 Experiment [Regan 1971]: in the context of another task, your 
