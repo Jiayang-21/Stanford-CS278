@@ -101,4 +101,64 @@ SFUSD deployed an algorithm to more fairly assign students to schools,
 but it increased segregation: not all groups have access to information on 
 how to navigate the algorithm [Robertson, Nguyen, and Salehi 2021]
 Facebook opened up its API to great fanfare…but Cambridge Analytica.
+<<<<<<< HEAD
 Twitter empowers end user news via the Arab Spring…but fake news.
+
+### Prototyping:
+Tons of lessons already to avoid "just build it" pitfall. Prototypes should focus laserlike on what’s the big risky unanswered question about the idea. Typically, that question is not whether the interface is usable. It’s how 
+the social dynamics will play out
+
+Don’t build the entire technical stack just to answer a question. 
+Instead, piggyback on existing social computing systems that get you 
+similar affordances. [Grevet and Gilbert 2015]
+In other words, layer your design on top of existing social platforms 
+to prototype the social interactions.
+Push messaging? Use texts.
+Collaboration? Use GDocs or GSlides.
+Chat? Use Slack or GroupMe.
+In HCI parlance, piggyback prototyping can be thought of as a specific 
+method for experience prototyping. [Buchenau and Suri 2000]
+
+Prototype “the hard side”
+[Chen 2022]
+Think critically: whose contributions will be the most challenging to 
+recruit?
+in a student+faculty forum, it’s hardest to get faculty to reply
+in tiktok or wikipedia, it’s the content creators
+in an art feedback forum, it’s: the artists, or the feedback givers?
+My take: it’s the feedback givers: they are the scarce resource
+Nearly every system has different roles: always prototype the role 
+representing “the hard side” — if that part fails, the whole thing fails 2
+
+
+### Cold Start:
+the social computing system isn’t really very enjoyable 
+or useful to anybody when nobody’s there yet.
+…but then, why would someone join and start populating it, if 
+there’s nobody there.
+
+Going broad, and trying to get all users at once, typically fail.
+
+Building a focused, engaged core initially is better design.
+Why?
+- The designer has a clear sense of who the users are,
+what issues they face, and what norms they expect
+- Cliques help overcome the cold start problem
+- This an “atomic network”: aim to create the smallest 
+stable, self-sustaining group possible
+
+Eg. Alex Wolf (bossbabe.com): kickstart by creating 
+a social space that affirms a group’s sense of 
+identity
+Look for micro-cultures, e.g., a trend of millennial 
+women graduating from college and not wanting 
+to go the traditional route of subverting their 
+femininity to be professional
+At its best, fashion operates similarly: identify 
+micro-cultures that exist and create clothes that 
+affirm that micro-culture’s identit
+
+## Week 3
+=======
+Twitter empowers end user news via the Arab Spring…but fake news.
+>>>>>>> parent of 39023a3 (udate)
