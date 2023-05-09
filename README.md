@@ -162,4 +162,55 @@ affirm that micro-culture’s identit
 
 
 ### The challenge of growth:
-image.png
+
+Communities can’t maintain the same design as they grow. 
+Newcomers change the dynamics, even if they absorb the norms—
+and oftentimes they don’t absorb the norms.
+Growth begets contention and rulemaking, which can push off 
+newcomer
+
+![](2023-05-08-16-55-54.png)
+
+
+Tempting POV:
+designs that scale
+Use moderators, upvoting, report links, and algorithms to build a 
+design that scales from 1,000 people to 1B people
+In other words, your design should not need changes as your 
+system becomes more popular.
+
+Why that POV fails:
+It’s not just the design that needs to scale, it’s also the norms
+Recall that these are socio-technical systems, so the design itself is 
+not enough to guarantee the same experience at 1K, 1M, and 1B
+The community leaders that established and enforced norms will no 
+longer be visible to the vast majority of users.
+
+### A cool quote:
+In an information-rich world, the 
+wealth of information means a 
+dearth of something else: a scarcity of 
+whatever it is that information 
+consumes. 
+What information consumes is rather 
+obvious: it consumes the attention of 
+its recipients. -- Herb Simon, 1971
+
+### How does ranking work:
+![](2023-05-08-18-00-42.png)
+
+### Downsides of optimizing for engagement:
+Indirect impacts: if we show this to 
+you, and you leave a comment, will it 
+make a better experience for the 
+user who posted it?
+
+Long-term impacts: what impact will 
+this have on your wellbeing? [Burke 
+and Kraut 2016; Stray 2020]
+
+### Echo chambers:
+It is complicated:
+![](2023-05-08-18-02-36.png)
+![](2023-05-08-18-02-47.png)
+![](2023-05-08-18-02-57.png)
