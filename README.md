@@ -214,3 +214,18 @@ It is complicated:
 ![](2023-05-08-18-02-36.png)
 ![](2023-05-08-18-02-47.png)
 ![](2023-05-08-18-02-57.png)
+
+### Do social computing systems make us lonely? It depends, of course:
+
+![](2023-05-08-18-35-44.png)
+![](2023-05-08-18-36-05.png)
+
+### Design for different tie strength:
+
+We should not design social computing systems to treat our 
+relationships as all the same.
+Strong ties: a small number of people we know well — design for honest 
+signals, and don’t assume all communication happens through the system.
+Weak ties: a large number of acquaintances — design to support feelings 
+of connectedness, but remember that many social systems will be 
+dominated in volume by weak ties.
