@@ -224,8 +224,10 @@ It is complicated:
 
 We should not design social computing systems to treat our 
 relationships as all the same.
+
 Strong ties: a small number of people we know well — design for honest 
 signals, and don’t assume all communication happens through the system.
+
 Weak ties: a large number of acquaintances — design to support feelings 
 of connectedness, but remember that many social systems will be 
 dominated in volume by weak ties.
