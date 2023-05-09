@@ -159,6 +159,7 @@ micro-cultures that exist and create clothes that
 affirm that micro-culture’s identit
 
 ## Week 3
-=======
-Twitter empowers end user news via the Arab Spring…but fake news.
->>>>>>> parent of 39023a3 (udate)
+
+
+### The challenge of growth:
+image.png
