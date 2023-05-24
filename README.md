@@ -215,10 +215,13 @@ It is complicated:
 ![](2023-05-08-18-02-47.png)
 ![](2023-05-08-18-02-57.png)
 
+## Week 4
+
 ### Do social computing systems make us lonely? It depends, of course:
 
 ![](2023-05-08-18-35-44.png)
 ![](2023-05-08-18-36-05.png)
+
 
 ### Design for different tie strength:
 
@@ -231,3 +234,32 @@ signals, and don’t assume all communication happens through the system.
 Weak ties: a large number of acquaintances — design to support feelings 
 of connectedness, but remember that many social systems will be 
 dominated in volume by weak ties.
+
+## Week 5
+
+### Grudin’s parado:
+
+The socio-technical system may be benefiting everyone…except 
+the people who are expected to use it.
+What is in the product manager’s interests may not be in the ordinary 
+users’ interests. [Halverson and Ackerman 2003]
+Examples:
+The manager wants everybody’s calendars to be up-to-date…but the 
+programmers don’t care, and just want to work on the project.
+We want an API to be documented and kept up-to-date, but the people 
+who write and actively use the software don’t need the documentation.
+Being on Slack is distracting for the people who need to be reached.
+
+### Summary:
+Group and team collaboration requires interdependence, which 
+leads to a distinct set of design constraints and affordances.
+Aiming just to replicate the experience of being there is quixotic; 
+better to aim for beyond being there by looking for affordances 
+unique to the digital realm.
+Social translucence is a general principle for designing these systems 
+with awareness and accountability.
+If incentives are misaligned, these systems will get abandoned.
+
+
+## Week 6 & 7
+Was in class. See the PDFs. Btw they are really interesting.
